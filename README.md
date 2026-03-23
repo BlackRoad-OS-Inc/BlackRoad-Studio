@@ -1,5 +1,13 @@
 # BlackRoad-Studio
 
+> BlackRoad Studio — creative tools: video editing, music production, content creation. Proprietary BlackRoad OS, Inc.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# BlackRoad-Studio
+
 BlackRoad Studio — creative tools: video editing, music production, content creation. Proprietary BlackRoad OS, Inc.
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
